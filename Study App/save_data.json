@@ -1,0 +1,16 @@
+{
+    "coins": 100.0,
+    "boxes_opened": 0,
+    "total_study_seconds": 0,
+    "keepsakes_inventory": {},
+    "consumables_inventory": {},
+    "keepsake_slots": 2,
+    "equipped_keepsakes": [
+        null,
+        null
+    ],
+    "keepsake_study_time": {},
+    "used_codes": [
+        "ILOVEGAMBLING"
+    ]
+}
